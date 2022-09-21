@@ -261,7 +261,7 @@ export default class App extends Component {
                 <div className="members-container">
                   {team.members.map((member, index) => {
                     return (
-                      <h5 key={`${index}-${team.name}`}>{member}</h5>
+                      <h3 key={`${index}-${team.name}`}>{member}</h3>
                     )
                   })}
                 </div>
