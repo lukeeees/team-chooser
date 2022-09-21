@@ -36,7 +36,7 @@
     },
     {
       "name": "Frey",
-      "color": "grey",
+      "color": "#7D7D7D",
       "imageUrl": "frey.png",
       "points": 0,
       "members": []
