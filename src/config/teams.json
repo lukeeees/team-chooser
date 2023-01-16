@@ -1,29 +1,50 @@
 [
     {
-      "name": "Bulbassauro",
+      "name": "Aphrodite",
+      "color": "pink",
+      "imageUrl": "aphrodite2.png",
+      "points": 0,
+      "members": []
+    },
+    {
+      "name": "Ares",
+      "color": "red",
+      "imageUrl": "ares.png",
+      "points": 0,
+      "members": []
+    },
+    {
+      "name": "Artemis",
+      "color": "gold",
+      "imageUrl": "artemis.png",
+      "points": 0,
+      "members": []
+    },
+    {
+      "name": "Athena",
       "color": "#374D2C",
-      "imageUrl": "bulbassauro.png",
+      "imageUrl": "athena.png",
       "points": 0,
       "members": []
     },
     {
-      "name": "Charmander",
-      "color": "#8F4A43",
-      "imageUrl": "charmander.png",
+      "name": "Hades",
+      "color": "gray",
+      "imageUrl": "hades.png",
       "points": 0,
       "members": []
     },
     {
-      "name": "Squirtle",
-      "color": "#334555",
-      "imageUrl": "squirtle.png",
+      "name": "Poseidon",
+      "color": "blue",
+      "imageUrl": "poseidon.png",
       "points": 0,
       "members": []
     },
     {
-      "name": "Pikachu",
-      "color": "#E4BE43",
-      "imageUrl": "pikachu.png",
+      "name": "Zeus",
+      "color": "silver",
+      "imageUrl": "zeus.png",
       "points": 0,
       "members": []
     }
